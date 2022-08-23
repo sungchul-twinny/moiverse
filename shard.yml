@@ -32,6 +32,8 @@ dependencies:
   jwt:
     github: crystal-community/jwt
     version: ~> 1.6.0
+  git:
+    github: smacker/libgit2.cr
 development_dependencies:
   lucky_flow:
     github: luckyframework/lucky_flow
